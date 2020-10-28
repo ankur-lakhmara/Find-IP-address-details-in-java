@@ -1,4 +1,4 @@
- package get_country_from_IP_address_in_JAVA;
+package get_country_from_IP_address_in_JAVA;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.URL;
